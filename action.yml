@@ -1,4 +1,4 @@
-name: 'gcloud Container Registry Docker Login'
+name: 'gcloud Container Registry Docker Login (KrashLeviathan fork)'
 author: 'Lars Gohr'
 branding:
   icon: 'cloud'
